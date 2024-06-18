@@ -3,7 +3,7 @@ const btPositivo = document.querySelector('#btn-positivo')
 
 const content = document.querySelectorAll('.content')
 
-const musica = new Audio('/assets/song.mp3')
+const musica = new Audio('./assets/song.mp3')
 musica.loop = true
 
 function mudarPosicao(btn) {
