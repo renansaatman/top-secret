@@ -181,6 +181,12 @@ body {
   }
 }
 
+@media (max-width: 391px) {
+  .gif-positivo {
+    top: 35%;
+  }
+}
+
 @media (max-width: 375px) {
   .gif-positivo {
     top: 35%;
